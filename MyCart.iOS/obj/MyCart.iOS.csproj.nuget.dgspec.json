@@ -1,0 +1,301 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Mobile Apps Development\\xamarin-ui-kit-mycart-demo-master\\MyCart\\MyCart.iOS\\MyCart.iOS.csproj": {}
+  },
+  "projects": {
+    "F:\\Mobile Apps Development\\xamarin-ui-kit-mycart-demo-master\\MyCart\\Core\\MyCart.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Mobile Apps Development\\xamarin-ui-kit-mycart-demo-master\\MyCart\\Core\\MyCart.Core.csproj",
+        "projectName": "MyCart.Core",
+        "projectPath": "F:\\Mobile Apps Development\\xamarin-ui-kit-mycart-demo-master\\MyCart\\Core\\MyCart.Core.csproj",
+        "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
+        "outputPath": "F:\\Mobile Apps Development\\xamarin-ui-kit-mycart-demo-master\\MyCart\\Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Mobile Apps Development\\xamarin-ui-kit-mycart-demo-master\\MyCart\\MyCart.iOS\\MyCart.iOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Mobile Apps Development\\xamarin-ui-kit-mycart-demo-master\\MyCart\\MyCart.iOS\\MyCart.iOS.csproj",
+        "projectName": "MyCart.iOS",
+        "projectPath": "F:\\Mobile Apps Development\\xamarin-ui-kit-mycart-demo-master\\MyCart\\MyCart.iOS\\MyCart.iOS.csproj",
+        "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
+        "outputPath": "F:\\Mobile Apps Development\\xamarin-ui-kit-mycart-demo-master\\MyCart\\MyCart.iOS\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {
+              "F:\\Mobile Apps Development\\xamarin-ui-kit-mycart-demo-master\\MyCart\\MyCart\\MyCart.csproj": {
+                "projectPath": "F:\\Mobile Apps Development\\xamarin-ui-kit-mycart-demo-master\\MyCart\\MyCart\\MyCart.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "Syncfusion.Xamarin.Buttons": {
+              "target": "Package",
+              "version": "[17.2.0.49, )"
+            },
+            "Syncfusion.Xamarin.Cards": {
+              "target": "Package",
+              "version": "[17.2.0.49, )"
+            },
+            "Syncfusion.Xamarin.Core": {
+              "target": "Package",
+              "version": "[17.2.0.49, )"
+            },
+            "Syncfusion.Xamarin.Expander": {
+              "target": "Package",
+              "version": "[17.2.0.49, )"
+            },
+            "Syncfusion.Xamarin.SfBadgeView": {
+              "target": "Package",
+              "version": "[17.2.0.49, )"
+            },
+            "Syncfusion.Xamarin.SfComboBox": {
+              "target": "Package",
+              "version": "[17.2.0.49, )"
+            },
+            "Syncfusion.Xamarin.SfListView": {
+              "target": "Package",
+              "version": "[17.2.0.49, )"
+            },
+            "Syncfusion.Xamarin.SfRating": {
+              "target": "Package",
+              "version": "[17.2.0.49, )"
+            },
+            "Syncfusion.Xamarin.SfRotator": {
+              "target": "Package",
+              "version": "[17.2.0.49, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Xamarin.FFImageLoading.Forms": {
+              "target": "Package",
+              "version": "[2.4.11.982, )"
+            },
+            "Xamarin.FFImageLoading.Svg.Forms": {
+              "target": "Package",
+              "version": "[2.4.11.982, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.2.0.709249, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "F:\\Mobile Apps Development\\xamarin-ui-kit-mycart-demo-master\\MyCart\\MyCart\\MyCart.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Mobile Apps Development\\xamarin-ui-kit-mycart-demo-master\\MyCart\\MyCart\\MyCart.csproj",
+        "projectName": "MyCart",
+        "projectPath": "F:\\Mobile Apps Development\\xamarin-ui-kit-mycart-demo-master\\MyCart\\MyCart\\MyCart.csproj",
+        "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
+        "outputPath": "F:\\Mobile Apps Development\\xamarin-ui-kit-mycart-demo-master\\MyCart\\MyCart\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "F:\\Mobile Apps Development\\xamarin-ui-kit-mycart-demo-master\\MyCart\\Core\\MyCart.Core.csproj": {
+                "projectPath": "F:\\Mobile Apps Development\\xamarin-ui-kit-mycart-demo-master\\MyCart\\Core\\MyCart.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[4.9.4, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Syncfusion.Xamarin.Buttons": {
+              "target": "Package",
+              "version": "[17.2.0.49, )"
+            },
+            "Syncfusion.Xamarin.Cards": {
+              "target": "Package",
+              "version": "[17.2.0.49, )"
+            },
+            "Syncfusion.Xamarin.Core": {
+              "target": "Package",
+              "version": "[17.2.0.49, )"
+            },
+            "Syncfusion.Xamarin.Expander": {
+              "target": "Package",
+              "version": "[17.2.0.49, )"
+            },
+            "Syncfusion.Xamarin.SfBadgeView": {
+              "target": "Package",
+              "version": "[17.2.0.49, )"
+            },
+            "Syncfusion.Xamarin.SfComboBox": {
+              "target": "Package",
+              "version": "[17.2.0.49, )"
+            },
+            "Syncfusion.Xamarin.SfListView": {
+              "target": "Package",
+              "version": "[17.2.0.49, )"
+            },
+            "Syncfusion.Xamarin.SfRating": {
+              "target": "Package",
+              "version": "[17.2.0.49, )"
+            },
+            "Syncfusion.Xamarin.SfRotator": {
+              "target": "Package",
+              "version": "[17.2.0.49, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Xamarin.FFImageLoading.Forms": {
+              "target": "Package",
+              "version": "[2.4.11.982, )"
+            },
+            "Xamarin.FFImageLoading.Svg.Forms": {
+              "target": "Package",
+              "version": "[2.4.11.982, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.2.0.709249, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

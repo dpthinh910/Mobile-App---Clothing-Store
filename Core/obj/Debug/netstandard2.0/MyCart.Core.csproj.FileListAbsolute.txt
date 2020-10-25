@@ -1,0 +1,16 @@
+F:\Mobile Apps Development\xamarin-ui-kit-mycart-demo-master\MyCart\Core\bin\Debug\netstandard2.0\MyCart.Core.deps.json
+F:\Mobile Apps Development\xamarin-ui-kit-mycart-demo-master\MyCart\Core\bin\Debug\netstandard2.0\MyCart.Core.dll
+F:\Mobile Apps Development\xamarin-ui-kit-mycart-demo-master\MyCart\Core\bin\Debug\netstandard2.0\MyCart.Core.pdb
+F:\Mobile Apps Development\xamarin-ui-kit-mycart-demo-master\MyCart\Core\obj\Debug\netstandard2.0\MyCart.Core.csprojAssemblyReference.cache
+F:\Mobile Apps Development\xamarin-ui-kit-mycart-demo-master\MyCart\Core\obj\Debug\netstandard2.0\MyCart.Core.AssemblyInfoInputs.cache
+F:\Mobile Apps Development\xamarin-ui-kit-mycart-demo-master\MyCart\Core\obj\Debug\netstandard2.0\MyCart.Core.AssemblyInfo.cs
+F:\Mobile Apps Development\xamarin-ui-kit-mycart-demo-master\MyCart\Core\obj\Debug\netstandard2.0\MyCart.Core.dll
+F:\Mobile Apps Development\xamarin-ui-kit-mycart-demo-master\MyCart\Core\obj\Debug\netstandard2.0\MyCart.Core.pdb
+F:\Mobile Apps Development\Mycart\MyCart\Core\bin\Debug\netstandard2.0\MyCart.Core.deps.json
+F:\Mobile Apps Development\Mycart\MyCart\Core\bin\Debug\netstandard2.0\MyCart.Core.dll
+F:\Mobile Apps Development\Mycart\MyCart\Core\bin\Debug\netstandard2.0\MyCart.Core.pdb
+F:\Mobile Apps Development\Mycart\MyCart\Core\obj\Debug\netstandard2.0\MyCart.Core.csprojAssemblyReference.cache
+F:\Mobile Apps Development\Mycart\MyCart\Core\obj\Debug\netstandard2.0\MyCart.Core.AssemblyInfoInputs.cache
+F:\Mobile Apps Development\Mycart\MyCart\Core\obj\Debug\netstandard2.0\MyCart.Core.AssemblyInfo.cs
+F:\Mobile Apps Development\Mycart\MyCart\Core\obj\Debug\netstandard2.0\MyCart.Core.dll
+F:\Mobile Apps Development\Mycart\MyCart\Core\obj\Debug\netstandard2.0\MyCart.Core.pdb
